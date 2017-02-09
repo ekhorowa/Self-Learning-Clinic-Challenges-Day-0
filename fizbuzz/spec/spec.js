@@ -1,4 +1,4 @@
-var fizzBuzz = require ('../src/fizz_buzz.js');
+var fizzBuzz = require ('../src/srcFizzBuzz.js');
 describe("Fizz Buzz tests ", function() {
   it("should return `Fizz` for number divisible by 3", function() {
     expect(fizzBuzz(3)).toBe('Fizz');

@@ -14,5 +14,5 @@ function fizzBuzz (value) {
   }
 }
 
-  module.exports = fizzBuzz;
+module.exports = fizzBuzz;
 
