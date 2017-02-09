@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "This contains self learning day 0 programming challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhorowa/Self-Learning-Clinic-Challenges-Day-0.git"
+  },
+  "author": "Omokaro Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekhorowa/Self-Learning-Clinic-Challenges-Day-0/issues"
+  },
+  "homepage": "https://github.com/ekhorowa/Self-Learning-Clinic-Challenges-Day-0#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
