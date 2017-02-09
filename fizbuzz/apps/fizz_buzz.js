@@ -1,5 +1,5 @@
-
-var fizzBuzz = {
+// Program fizzBuzz
+var app = {
 fizzBuzz: function (value) {
   if(value % 3 == 0 && value % 5 == 0){
     return "FizzBuzz";// FizzBuzz is returned when the arguement is evenly divisible by 3 and 5
@@ -12,4 +12,4 @@ fizzBuzz: function (value) {
   }
 }
 }
-module.exports = fizzBuzz;
+module.exports = app;

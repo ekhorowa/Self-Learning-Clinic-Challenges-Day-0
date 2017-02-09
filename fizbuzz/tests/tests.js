@@ -1,5 +1,3 @@
-'use strict';
-
 
 var fizzBuzz = require ('../apps/fizz_buzz')();
 
