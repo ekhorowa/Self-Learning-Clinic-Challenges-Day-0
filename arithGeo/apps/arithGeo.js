@@ -1,5 +1,5 @@
 //Program arithGeo
-var app = {
+module.exports= {
 arithGEO : function(d_array) {
   
   if (d_array.length < 1){
@@ -32,5 +32,3 @@ arithGEO : function(d_array) {
 
   }
 };
-
-module.exports = app;
