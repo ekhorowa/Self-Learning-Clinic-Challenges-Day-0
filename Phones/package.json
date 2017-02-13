@@ -1,0 +1,19 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "This Program Contains The Phone OOP Model",
+  "main": "phoneSrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhorowa/PHONE-Object-Oriented-Programming-model.git"
+  },
+  "author": "Omokaro Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekhorowa/PHONE-Object-Oriented-Programming-model/issues"
+  },
+  "homepage": "https://github.com/ekhorowa/PHONE-Object-Oriented-Programming-model#readme"
+}
